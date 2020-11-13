@@ -159,3 +159,33 @@ button {
   .main-gallery button {
     margin-top: 23px;
     background-color: #f9f9f9; }
+
+.footer-content {
+  background-color: #f9f9f9;
+  text-align: center;
+  padding: 69px 50px 73px 50px;
+  color: #8f8f8f; }
+  .footer-content h2 {
+    font-size: 29px;
+    color: black; }
+  .footer-content button {
+    height: 62px;
+    width: 231px;
+    background-color: #e02d74;
+    font-size: 16px;
+    color: white; }
+
+.footer .footer-text {
+  font-size: 13px;
+  float: left;
+  margin-top: 30px;
+  margin-bottom: 22px;
+  margin-right: 186px; }
+
+.footer li {
+  float: left;
+  margin-top: 30px;
+  margin-bottom: 22px; }
+
+.footer li + li {
+  margin-left: 10px; }

@@ -1,0 +1,34 @@
+.footer-content{
+    background-color: #f9f9f9;
+    text-align: center;
+    padding: 69px 50px 73px 50px;
+    color: #8f8f8f;
+    h2{
+        font-size: 29px;
+        color: black;
+    }
+    button{
+        height: 62px;
+        width: 231px;
+        background-color: #e02d74;
+        font-size: 16px;
+        color: white;
+    }
+}
+.footer{
+    .footer-text{
+        font-size: 13px;
+        float: left;
+        margin-top: 30px;
+        margin-bottom: 22px;
+        margin-right: 186px;
+    }
+    li{
+        float: left;
+        margin-top: 30px;
+        margin-bottom: 22px;
+    }
+    li+li{
+        margin-left: 10px;
+    }
+}
