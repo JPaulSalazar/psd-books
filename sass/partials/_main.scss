@@ -1,0 +1,126 @@
+.main-item{
+    background-color: #f9f9f9;
+    text-align: center;
+    margin-bottom: 35px;
+    h2{
+        font-size: 34px
+    }
+    p{
+        font-size: 16px;
+        font-weight: bold;
+        color: #888888;
+        margin-bottom: 31px;
+    }
+    a{
+        color: #40aceb;
+    }
+}
+.main-info-button1{
+    background-color: #7bb84f;
+    color: white;
+    margin-bottom: 39px;
+}
+.main-info-button2{
+    background-color: #f5ba1c;
+    color: white;
+    margin-bottom: 39px;
+}
+.main-newsroom{
+    text-align: center;
+    color: #888888;
+    background-color:#f9f9f9;
+    padding-bottom: 72px;
+    h2{
+        color: black;
+        margin-top: 0px;
+        padding-top: 71px;
+        font-size: 29px;
+    }
+    img{
+        display: block;
+
+        width: 300px;
+    }
+    button{
+        margin-top: 31px;
+        background-color: #40aceb;
+        color: white;
+    }
+}
+.main-newsroom-content{
+    padding-top: 20px;
+}
+
+.main-newsroom-content-item-text{
+    width: 193px;
+    color: white;
+    h3{
+        font-size: 15px;
+    }
+    p{
+        font-size: 15px;
+        line-height: 23px;
+    }
+}
+.img1{
+    float: left;
+}
+.text1{
+    padding: 44px 65px 48px 42px;
+    float: right;
+    text-align: left;
+    background-color:#0071bd;
+}
+.text2{
+    padding: 42px 65px 46px 42px;
+    float: left;
+    text-align: right;
+    background-color: #a4d3f3;
+}
+.img2{
+    float: right;
+}
+.img3{
+    float: left;
+}
+.text3{
+    padding: 44px 65px 48px 42px;
+    float: right;
+    text-align: left;
+    background-color: #333c4d;
+}
+.text4{
+    padding: 42px 65px 48px 42px;
+    float: left;
+    text-align: right;
+    background-color: #76b3dd;
+}
+.img4{
+    float: right;
+}
+.main-gallery{
+    background-color:#292c34;
+    color: #828282;
+    text-align: center;
+    padding: 70px 51px 70px 51px;
+    margin-bottom: 31px;
+    h2{
+        color: white;
+        font-size: 29px;
+    }
+    img{
+        display: block;
+        margin-bottom: 7px;
+    }
+    li{
+        float: left;
+    }
+    .main-gallery-list-item{
+        margin-right:7px;
+        margin-left:7px;;
+    }
+    button{
+        margin-top: 23px;
+        background-color: #f9f9f9;
+    }
+}

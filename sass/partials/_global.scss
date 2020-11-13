@@ -1,6 +1,7 @@
 body{
     margin: 0 auto;
     font-family: 'Open Sans', sans-serif;
+    background-color: #eaeced;
 }
 li{
     list-style: none;
@@ -12,6 +13,7 @@ ul{
 .wrapper{
     width: 600px;
     margin: 0 auto;
+
 }
 h1{
     float: left;
@@ -24,4 +26,11 @@ h1{
     content: "";
     clear: both;
     display: table;
+}
+button{
+    width: 133px;
+    height: 35px;
+    border: none;
+    border-radius: 2px;
+    font-size: 13px;
 }
