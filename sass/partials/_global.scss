@@ -1,0 +1,27 @@
+body{
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+}
+li{
+    list-style: none;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+}
+h1{
+    float: left;
+    font-size: 16px;
+    color: #606060;
+    margin: 0;
+    padding: 30px 0px 30px 0px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
