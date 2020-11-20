@@ -1,0 +1,21 @@
+@media(max-width:767px){
+    .colum1{
+        float: none;
+    }
+    .colum2{
+        float: none;
+    }
+    .main-gallery{
+        li{
+            text-align: center;
+            float: none;
+            padding:0 auto;
+        }
+    }
+    .main-gallery-list{
+        text-align: center;
+    }
+    .div-gallery-list{
+        margin: 0 auto;
+    }
+}
