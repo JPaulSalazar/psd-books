@@ -12,12 +12,13 @@ ul{
 }
 .wrapper{
     width: 600px;
+    max-width: 100%;
     margin: 0 auto;
 
 }
 h1{
     float: left;
-    font-size: 16px;
+    font-size:1rem;
     color: #606060;
     margin: 0;
     padding: 30px 0px 30px 0px;
@@ -28,9 +29,9 @@ h1{
     display: table;
 }
 button{
-    width: 133px;
+    width: 22.16%;
     height: 35px;
     border: none;
     border-radius: 2px;
-    font-size: 13px;
+    font-size: 0.812rem;
 }

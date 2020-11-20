@@ -1,76 +1,84 @@
 .main-item{
     background-color: #f9f9f9;
     text-align: center;
-    margin-bottom: 35px;
+    margin-bottom: 5,83%;
+    max-width: 100%;
+    width:100%;
     h2{
-        font-size: 34px
+        font-size: 2.125rem;
     }
     p{
-        font-size: 16px;
+        font-size: 1rem;
         font-weight: bold;
         color: #888888;
-        margin-bottom: 31px;
+        margin-bottom: 5.16%;
     }
     a{
         color: #40aceb;
     }
+    img{
+        max-width: 100%;
+        width: 100%;
+    }
 }
 .colum1{
-    width: 300px;
+    width: 50%;
     float: left;
+    margin: 0% auto;
 }
 .colum2{
-    width: 300px;
+    width: 50%;
     float: left;
+    margin: 0% auto;
 }
 .main-info-button1{
     background-color: #7bb84f;
     color: white;
-    margin-bottom: 39px;
+    margin-bottom: 6.5%;
 }
 .main-info-button2{
     background-color: #f5ba1c;
     color: white;
-    margin-bottom: 30px;
+    margin-bottom: 5%;
 }
 .main-newsroom{
     text-align: center;
     color: #888888;
     background-color:#f9f9f9;
-    padding-bottom: 30px;
-    margin-bottom: 28px;
+    padding-bottom: 5%;
+    margin-bottom: 4.8%;
     h2{
         color: black;
-        margin-top: 0px;
-        padding-top: 71px;
-        font-size: 29px;
+        margin-top: 0%;
+        padding-top: 11.83%;
+        font-size: 1.812rem;
     }
     img{
         display: block;
-        width: 300px;
+        max-width: 100%;
+        width:100%;
     }
     button{
-        margin-top: 31px;
+        margin-top: 5.16%;
         background-color: #40aceb;
         color: white;
     }
     .text-newsroom{
-        padding-bottom: 40px;
+        padding-bottom: 6.66%;
     }
 }
 .main-newsroom-content{
-    padding-top: 20px;
+    padding-top: 3.33%;
 }
 
 .main-newsroom-content-item-text{
     width: 193px;
     color: white;
     h3{
-        font-size: 15px;
+        font-size: 0.937rem;
     }
     p{
-        font-size: 15px;
-        line-height: 23px;
+        font-size: 0.937rem;
     }
 }
 .text1{
@@ -98,24 +106,26 @@
     color: #828282;
     text-align: center;
     padding: 70px 51px 70px 51px;
-    margin-bottom: 31px;
+    margin-bottom: 5.16%;
     h2{
         color: white;
-        font-size: 29px;
+        font-size: 1.812rem;
     }
     img{
+        max-width: 100%;
+        width:100%;
         display: block;
-        margin-bottom: 7px;
+        margin-bottom: 1.16%;
     }
     li{
         float: left;
     }
     .main-gallery-list-item{
-        margin-right:7px;
-        margin-left:7px;;
+        margin-right:1.16%;
+        margin-left:1.16%;
     }
     button{
-        margin-top: 23px;
+        margin-top: 3.83%;
         background-color: #f9f9f9;
     }
 }

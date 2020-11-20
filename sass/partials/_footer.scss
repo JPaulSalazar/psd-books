@@ -4,31 +4,35 @@
     padding: 69px 50px 73px 50px;
     color: #8f8f8f;
     h2{
-        font-size: 29px;
+        font-size: 1.812rem;
         color: black;
     }
     button{
-        height: 62px;
-        width: 231px;
+        height:10.33%;
+        width: 38,5%;
         background-color: #e02d74;
-        font-size: 16px;
+        font-size: 1rem;
         color: white;
     }
 }
 .footer{
     .footer-text{
-        font-size: 13px;
+        font-size: 0.812rem;
         float: left;
-        margin-top: 30px;
-        margin-bottom: 22px;
-        margin-right: 186px;
+        margin-top: 5%;
+        margin-bottom: 3.66%;
+        margin-right: 31%;
     }
     li{
         float: left;
-        margin-top: 30px;
-        margin-bottom: 22px;
+        margin-top: 5%;
+        margin-bottom: 3.66%;
     }
     li+li{
-        margin-left: 10px;
+        margin-left: 1.66%;
+    }
+    img{
+        max-width: 100%;
+        width: 100%;
     }
 }
